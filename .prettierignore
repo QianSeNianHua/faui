@@ -1,0 +1,6 @@
+src/assets
+public
+dist
+node_modules
+.vscode
+*.md
